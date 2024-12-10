@@ -1,0 +1,6 @@
+__pycache__/
+buffer/__pycache__/
+agents/__pycache__/
+.DS_Store
+apikeys.json
+results/
